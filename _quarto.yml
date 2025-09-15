@@ -1,0 +1,30 @@
+project:
+  type: website
+
+website:
+  title: "My Professional Portfolio"
+  author: "Your Name"
+  favicon: images/logo.png
+  navbar:
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "About"
+        href: about.qmd
+      - text: "Projects"
+        href: projects.qmd
+      - text: "Blog"
+        href: _posts/index.qmd
+      - text: "Contact"
+        href: contact.qmd
+  theme: cosmo
+  output-dir: _site
+  format:
+    html:
+      code-fold: true
+      toc: true
+      toc-location: left
+
+format:
+  html:
+    css: styles.css
