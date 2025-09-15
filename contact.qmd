@@ -1,0 +1,9 @@
+---
+title: "Contact"
+---
+
+# Contact Me
+
+- **Email:** your.email@example.com  
+- **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
+- **GitHub:** [github.com/yourprofile](https://github.com/yourprofile)
