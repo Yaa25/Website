@@ -1,0 +1,15 @@
+---
+title: "About Me"
+---
+
+# About Me
+
+Hi! I'm **Your Name**, a professional in [Your Field].  
+
+This website showcases my:
+
+- Skills
+- Projects
+- Blog posts
+
+You can reach me via the **Contact** page.
