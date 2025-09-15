@@ -1,0 +1,11 @@
+---
+title: "Blog"
+listing:
+  contents: _posts
+  sort: "date desc"
+  type: default
+  categories: true
+---
+
+# Blog
+Welcome to my blog! Here are my recent posts:
