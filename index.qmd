@@ -1,0 +1,11 @@
+---
+title: "Welcome"
+---
+
+# Welcome to My Professional Website
+
+This site showcases my projects, blog posts, and contact information.
+
+- Explore my **projects**
+- Read my **blog**
+- Get in touch via **contact**
