@@ -1,0 +1,12 @@
+---
+title: "Welcome to My Blog"
+date: 2025-09-14
+---
+
+# My First Blog Post
+
+This is the first post on my Quarto website.  
+You can include **code**, **images**, and **math**.
+
+```{python}
+print("Hello from Python!")
