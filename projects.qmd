@@ -1,0 +1,15 @@
+---
+title: "Projects"
+---
+
+# My Projects
+
+## Project 1
+![Project Image](images/project1.png)
+
+Description of Project 1.
+
+## Project 2
+Description of Project 2.
+
+You can add more projects here as needed.
